@@ -238,14 +238,14 @@ int("hello")     # ValueError
 
 ### Truthy and Falsy Values
 
-Truthy values are values that Python treats as True when used in a condition.
-Falsy values are values that Python treats as False when used in a condition.
-Example
-x = 10
-if x:
-    print("Truthy")
+Truthy values are values that Python treats as True when used in a condition.  
+Falsy values are values that Python treats as False when used in a condition.  
 
-Output:
+Example  
+x = 10  
+if x:  
+    print("Truthy")  
+
 
 These values are **falsy**: `0`, `0.0`, `""`, `[]`, `{}`, `()`, `set()`, `None`, `False`. Everything else is **truthy**.
 
