@@ -94,6 +94,7 @@ often used as a docstring or block comment.
 ### Case Sensitivity
 
 `name`, `Name` and `NAME` are **three different** identifiers.
+Identifiers are the names given to programming elements such as variables, functions, classes, objects, etc.
 
 ### Statements and Line Continuation
 
